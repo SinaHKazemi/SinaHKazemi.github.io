@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'YekanBakhEN03';
+  src: url('../fonts/Yekan\ Bakh\ EN\ 03\ Light.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+@font-face {
+  font-family: 'YekanBakhEN04';
+  src: url('../fonts/Yekan Bakh EN 04 Regular.woff') format('woff')  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+@font-face {
+  font-family: 'YekanBakhEN05';
+  src: url('../fonts/Yekan\ Bakh\ EN\ 05\ Medium.woff') format('woff')  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+@font-face {
+  font-family: 'YekanBakhEN06';
+  src: url('../fonts/Yekan\ Bakh\ EN\ 06\ Bold.woff') format('woff')  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+@font-face {
+  font-family: 'YekanBakhEN07';
+  src: url('../fonts/Yekan\ Bakh\ EN\ 07\ Heavy.woff') format('woff')  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+@font-face {
+  font-family: 'YekanBakhEN08';
+  src: url('../fonts/Yekan\ Bakh\ EN\ 08\ Fat.woff') format('woff')  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
